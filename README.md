@@ -11,10 +11,10 @@ I specialize in **AI Agent Orchestration**, **LLM Integration**, **Machine Learn
 ### Featured Project: **HireFlow AI** 
 **Multi-Agent Recruitment Platform Using LLMs & RAG**
 
-- 🤖 **4 Specialized AI Agents** working in orchestration
-- 🧠 **Gemini API + RAG Architecture** for semantic resume understanding
+- 🤖 **20+ Specialized CrewAI Agents** working in orchestration
+- 🧠 **Gemini/OpenAI/Claude/Groq API + RAG Architecture** for semantic resume understanding
 - ⚡ **80-85% reduction** in manual screening time
-- 🎯 **85%+ matching accuracy** through AI-powered job matching
+- 🎯 **92%+ matching accuracy** through AI-powered job matching
 - 🔧 **Tech Stack:** Gemini API, LangChain, CrewAI, Django, Bootstrap 5, SQLite
 
 **[View HireFlow AI →](https://github.com/datascientist970/hireflow-ai)**
