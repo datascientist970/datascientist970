@@ -75,8 +75,7 @@
 
 - GitHub: [github.com/datascientist970](https://github.com/datascientist970)
 - LinkedIn: [linkedin.com/in/muhammad-dawood-ai](https://www.linkedin.com/in/muhammad-dawood-ai/)
-- Google Scholar: [://google.com](https://://google.com&hl=en)
-
+- Google Scholar: [scholar.google.com/citations?user=BFGHwK8AAAAJ](https://scholar.google.com/citations?user=BFGHwK8AAAAJ&hl=en&authuser=4)
 ---
 
 <p align="center"><em>"I don't just build models — I build systems that work reliably in production."</em></p>
