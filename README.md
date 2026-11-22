@@ -5,6 +5,21 @@
   <em>Building production AI systems that solve real business problems — multi-agent LLM applications, machine-learning pipelines, and full-stack Django platforms.</em>
 </p>
 
+<p align="center">
+  <a href="https://github.com/datascientist970" target="_blank">
+    <img src="https://shields.io" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="https://google.com" target="_blank">
+    <img src="https://shields.io" alt="Google Scholar" />
+  </a>
+  <a href="mailto:muhammad.dawood.aie@outlook.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -31,34 +46,38 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
-**AI & ML:** LLMs (Gemini, OpenAI, Claude, Groq) · AI Agents & Multi-Agent Orchestration · RAG · Prompt Engineering · Deep Learning · Computer Vision · NLP
-**Data:** Pandas / NumPy · ETL Pipelines · Data Visualization (Power BI, Tableau, Plotly) · Statistical & Predictive Modeling
-**Web:** Django / DRF · REST APIs · JavaScript · Bootstrap · Git & GitHub · Docker (basic) · AWS / Azure / GCP (basic)
-**Languages:** English · Urdu · Pashto
+- **AI & ML:** LLMs (Gemini, OpenAI, Claude, Groq) · AI Agents & Multi-Agent Orchestration · RAG · Prompt Engineering · Deep Learning · Computer Vision · NLP
+- **Data:** Pandas / NumPy · ETL Pipelines · Data Visualization (Power BI, Tableau, Plotly) · Statistical & Predictive Modeling
+- **Web & DevOps:** Django / DRF · REST APIs · JavaScript · Bootstrap · Git & GitHub · Docker (basic) · AWS / Azure / GCP (basic)
+- **Languages:** English · Urdu · Pashto
 
 ## 🚀 Featured Projects
 
-| Project | What it is |
+| Project | Description |
 |---|---|
 | **[ForeignHire AI](https://github.com/datascientist970/foreignhire-ai)** | AI-powered internship & hiring platform (Django): AI CV scoring with HR thresholds, AI-assisted task generation, AI interviews, proctored assessments, offer letters & certificates, payments — with separate Admin / HR / Candidate dashboards |
 | **[AI Agent Orchestrator](https://github.com/datascientist970/ai-agent-orchestrator)** | Multi-agent AI orchestration experiments and workflows |
 | **[NeuroMed AI](https://github.com/datascientist970/NeuroMed-AI-Clinical-Decision-Support-System)** | AI clinical decision-support system — deep-learning based medical analysis |
 | **[LLM-Based ATS](https://github.com/datascientist970/LLM-Based-ATS)** | Applicant-tracking style resume screening powered by LLMs |
 
+## 📚 Research & Publications
+
+- **Lightweight and Explainable AI for Chest Radiograph Classification in Low-Resource Settings: Cross-Dataset Generalization, Grad-CAM Verification, and Uncertainty-Aware Referral** — *medRxiv* (2026) · [View on Google Scholar](https://google.com)
+
 ## 💼 Experience Highlights
 
-- **AI Trainer — Mindrift** (2026– ): evaluating and improving AI model outputs
-- **AI Engineer — Dost Digital AI Agency** (2026– ): client AI solutions and automation
-- **AI & Software Engineer / OSS Contributor — Aden** (2025– ): open-source AI agent framework
+- **AI Trainer — Mindrift** (2026–Present): Evaluating and improving AI model outputs
+- **AI Engineer — Dost Digital AI Agency** (2026–Present): Client AI solutions and automation
+- **AI & Software Engineer / OSS Contributor — Aden** (2025–Present): Open-source AI agent framework
 - **AI Engineer — Iaxon** (2025): ETL automation (−70% manual effort), ML models up to 95% accuracy, Power BI reporting
-- **Web Developer & IT Assistant — Rabt Development Org** (2023–2025): web development and IT support
+- **Web Developer & IT Assistant — Rabt Development Org** (2023–2025): Web development and IT support
 
 ## 📜 Certifications
 
-- IBM Data Science Professional Certificate
-- IBM AI Engineering Professional Certificate
-- Cisco PCAP — Programming Essentials in Python
-- Elsevier Certificate of Reviewing (2025)
+- **IBM Data Science Professional Certificate**
+- **IBM AI Engineering Professional Certificate**
+- **Cisco PCAP** — Programming Essentials in Python
+- **Elsevier Certificate of Reviewing** (2025)
 
 ## 📊 GitHub Stats
 
@@ -73,8 +92,8 @@
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com" target="_blank">
+<p align="center">
+  <a href="https://github.com/datascientist970" target="_blank">
     <img src="https://shields.io" alt="GitHub" />
   </a>
   <a href="https://linkedin.com" target="_blank">
@@ -89,6 +108,5 @@
 </p>
 
 ---
-
 
 <p align="center"><em>"I don't just build models — I build systems that work reliably in production."</em></p>
