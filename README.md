@@ -74,7 +74,7 @@
 ## 📫 Connect With Me
 
 - GitHub: [github.com/datascientist970](https://github.com/datascientist970)
-- LinkedIn: [linkedin.com/in/dawood406](https://www.linkedin.com/in/dawood406/)
+- LinkedIn: [linkedin.com/in/dawood406](https://www.linkedin.com/in/muhammad-dawood-ai/)
 
 ---
 
