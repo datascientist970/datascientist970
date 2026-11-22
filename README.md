@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Dawood</h1>
+<h1 align="center">Assalam-O-Alaikum 👋, I'm Muhammad Dawood</h1>
 <h3 align="center">AI & Data Science Engineer · Full-Stack Developer</h3>
 <p align="center">Mardan, Pakistan</p>
 
@@ -36,7 +36,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Computer Science Graduate**
-- 💼 **AI/ML Manager** at Apex AI Arabia. **AI Trainer** at Mindrift · **AI Engineer** at Dost Digital AI Agency & Iaxon · **Web Developer & IT Assistant** at Rabt Development Org
+- 💼 **AI/ML Manager** at Apex AI Arabia · **AI Trainer** at Mindrift · **AI Engineer** at Dost Digital AI Agency & Iaxon · **Web Developer & IT Assistant** at Rabt Development Org
 - 🤝 Open-source contributor — **Aden** (AI agent framework) and **Anserini / Pyserini** (Castorini, University of Waterloo)
 - 🏅 **IBM Data Science Professional** · **IBM AI Engineering Professional** · **Cisco PCAP (Python)**
 - 🔭 Currently focused on **agentic AI systems** — LangChain, CrewAI, RAG — and Django platforms with AI built in, not bolted on
