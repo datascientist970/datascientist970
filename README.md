@@ -73,9 +73,20 @@
 
 ## 📫 Connect With Me
 
-[![GitHub](https://shields.io)](https://github.com/datascientist970)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/muhammad-dawood-ai/)
-[![Google Scholar](https://shields.io)](https://scholar.google.com/citations?user=BFGHwK8AAAAJ&hl=en&authuser=4)
+<p align="left">
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="https://google.com" target="_blank">
+    <img src="https://shields.io" alt="Google Scholar" />
+  </a>
+  <a href="mailto:muhammad.dawood.aie@outlook.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
 
 ---
 
